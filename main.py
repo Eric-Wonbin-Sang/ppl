@@ -3,7 +3,9 @@ from Classes import Person
 
 def main():
 
-    pass
+    person_list = [
+        Person.Person()
+    ]
 
 
 if __name__ == '__main__':
